@@ -12,7 +12,7 @@ git clone --recurse-submodules https://github.com/jonadmark/intsight-perfeval.gi
 
 The main files in this repository are `repetita2json.py` and `performance-evaluation.ipynb`. The first, `repetita2json.py`, depends on Python3 to be run and the `Repetita` submodule, which contains the networks from the TopologyZoo and RocketFuel projects. The `performance-evaluation.ipynb` notebook has the following Python3 libraries as dependencies:
 - [Jupyter Notebooks](https://jupyter.org/install)
-- [NetworkX](https://networkx.github.io/documentation/stable/install.html) for Python3
+- [NetworkX](https://networkx.github.io/documentation/stable/install.html)
 - [NumPy](https://numpy.org/install/)
 - [Pandas](https://pandas.pydata.org/getting_started.html)
 - [MatPlotLib](https://matplotlib.org/users/installing.html)
