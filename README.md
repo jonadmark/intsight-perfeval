@@ -2,6 +2,8 @@
 
 Jupyter notebook and scripts for the performance evaluation of the IntSight Paper.
 
+Also check the submodule [intsight-netfpga](https://github.com/jonadmark/intsight-netfpga) for reproducing the "Programmable Compute Resources" part of the performance evaluation.
+
 ## Environment Setup
 
 Use the command bellow to clone this repository along with all its submodules:
