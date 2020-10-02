@@ -35,4 +35,4 @@ This script converts Repetita topology and demand textual descriptions into json
 jupyter notebook performance-evaluation.ipynb
 ```
 
-This notebook implements the analytical modelling for performance comparison between monitoring approaches and generates the figures available in the `paper_results` directory.
+This notebook implements the analytical modeling for performance comparison between monitoring approaches and generates the figures available in the `paper_results` directory.
